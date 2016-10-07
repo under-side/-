@@ -13,3 +13,5 @@
 
 ### 总结
 自定义控件，要根据功能需求去设计，采用与之匹配的方法去实现。
+
+#### 如果有任何建议，可以点击<a href=" https://github.com/under-side/ParallaxView/issues">这里<a/>告诉我。
